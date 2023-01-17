@@ -351,8 +351,7 @@ int main(int argc, char *argv[]) {
     delete[] new_data;
 
 	if (my_rank == 0){
-		printf("Student ID: 119010437\n"); // replace it with your student id
-		printf("Name: ZHANG Shiyi\n"); // replace it with your name
+		
 		printf("Assignment 2: N Body Simulation MPI Implementation\n");
         printf("Total running time: %.3f\n",total_time);
 	}
