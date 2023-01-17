@@ -202,8 +202,7 @@ int main(int argc, char *argv[]){
     total_time = 0.0;
     master();
 
-    printf("Student ID: 119010437\n"); // replace it with your student id
-    printf("Name: ZHANG Shiyi\n"); // replace it with your name
+    
     printf("Assignment 2: N Body Simulation OpenMP Implementation\n");
     printf("Total running time: %.3f\n",total_time);
     
